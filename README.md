@@ -21,8 +21,8 @@
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/minecraft-server-manager.git
-cd minecraft-server-manager
+git clone https://github.com/OwaisSafa/minecraft-server-Setup-Tunnel.git
+cd minecraft-server-Setup-Tunnel
 pip install -r requirements.txt
 ```
 
